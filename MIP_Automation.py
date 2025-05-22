@@ -11,8 +11,8 @@ import json
 from datetime import datetime
 
 # Credentials (update as needed)
-USERNAME = "MTall1"
-PASSWORD = "Vinay123#!$@@@@@@"
+USERNAME = "username"
+PASSWORD = "password"
 
 # Set up Chrome options
 chrome_options = webdriver.ChromeOptions()
